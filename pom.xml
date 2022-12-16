@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.mvc>5.1.8.RELEASE</spring.mvc>
+        <spring.mvc>5.2.20.RELEASE</spring.mvc>
         <javax.servlet>3.0.1</javax.servlet>
         <jstl.version>1.2</jstl.version>
         <spring.securiry>3.2.0.RELEASE</spring.securiry>
